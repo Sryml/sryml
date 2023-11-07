@@ -41,8 +41,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sryml&repo=blade-virtual-module&hide_border=true&theme=material-palenight)](https://github.com/Sryml/blade-virtual-module) &nbsp; &nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sryml&repo=AstraTools4Max&hide_border=true&theme=material-palenight)](https://github.com/Sryml/AstraTools4Max)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sryml&repo=mmp_convert&hide_border=true&theme=material-palenight)](https://github.com/Sryml/mmp_convert)
-
 <!--
 **Sryml/sryml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
