@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**This is Sryml !** ✨
+**This is Sryml or Sir Ryml** 😄
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=sryml&show_icons=true&hide_border=true&count_private=true$hide_rank=true$hide=contribs&theme=material-palenight" alt="github stats" /></a>
 
