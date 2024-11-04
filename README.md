@@ -31,7 +31,7 @@
 <br>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_edge/microsoft_edge-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/discord/discord-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/blender/blender-ar21.svg"></code>
 
 </p>
 
