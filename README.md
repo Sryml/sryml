@@ -2,7 +2,7 @@
 
 **This is Sryml or Sir Ryml** 😄
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=sryml&show_icons=true&hide_border=true&count_private=true$hide_rank=true$hide=contribs&theme=material-palenight" alt="github stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?username=sryml&show_icons=true&hide_border=true&count_private=true&hide_rank=true&hide=contribs,prs&include_all_commits=false&theme=material-palenight" alt="github stats" /></a>
 
 - 😃 欢迎来到我的 Github 主页
 - 💖 致力于每一件感兴趣的事情
